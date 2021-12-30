@@ -25,9 +25,6 @@ def btn_clicked():
     else:
         window.destroy()
         import Spot_Clustering_Model
-        print(att)
-
-print(att)
     
 window = Tk()
 

@@ -20,8 +20,8 @@ initial += pas
 
 df = df[initial]
 
-print(att)
-print(df)
+#print(att)
+#print(df)
 
 #fig,axes = plt.subplots(2,2,figsize=(15,8))
 
@@ -92,8 +92,13 @@ for i in hold:
     if float(hold[i][pas[2]]) > Largest_2:
         Largest_2 = float(hold[i][pas[2]])
         final[2] = i
-print(final)
+#print(final)
 df.to_csv("Data/df.csv",index=False)
 clusters[final[0]].to_csv("Data/1st.csv",index=False)
 clusters[final[1]].to_csv("Data/2nd.csv",index=False)
 clusters[final[2]].to_csv("Data/3rd.csv",index=False)
+
+finale = []
+
+for i in final:
+    finale.append(clusters[final[i]])

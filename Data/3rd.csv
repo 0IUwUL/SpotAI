@@ -1,0 +1,691 @@
+track_name,artist_name,acousticness,key,energy,kmeans
+All We Know,The Chainsmokers,0.097,0.0,0.586,3
+24K Magic,Bruno Mars,0.034,1.0,0.803,3
+Perfect Strangers,Jonas Blue,0.35,1.0,0.833,3
+Bad Things (with Camila Cabello),Machine Gun Kelly,0.214,2.0,0.691,3
+Call On Me - Ryan Riback Extended Remix,Starley,0.0604,0.0,0.838,3
+We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,0.621,1.0,0.563,3
+Shout Out to My Ex,Little Mix,0.0316,0.0,0.739,3
+"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,0.0123,0.0,0.83,3
+Black Beatles,Rae Sremmurd,0.142,0.0,0.632,3
+Scars To Your Beautiful,Alessia Cara,0.0285,0.0,0.739,3
+"Sit Still, Look Pretty",Daya,0.122,2.0,0.787,3
+Juju on That Beat (TZ Anthem),Zay Hilfigerrr,0.00381,1.0,0.887,3
+You & Me,Marc E. Bassy,0.0398,1.0,0.65,3
+I Feel It Coming,The Weeknd,0.426,0.0,0.819,3
+All Time Low,Jon Bellion,0.0584,0.0,0.567,3
+One Dance,Drake,0.00784,1.0,0.619,3
+Nobody's Better (feat. Fetty Wap),Suzi,0.0134,0.0,0.661,3
+The Mack,Nevada,0.0707,0.0,0.883,3
+I Would Like,Zara Larsson,0.0853,2.0,0.713,3
+Paasa - T.A.N.G.A.,Yeng Constantino,0.423,0.0,0.604,3
+One Call Away,Charlie Puth,0.403,1.0,0.613,3
+Final Song,MØ,0.014,1.0,0.672,3
+The Greatest (feat. Kendrick Lamar),Sia,0.0102,1.0,0.725,3
+Sorry,Justin Bieber,0.0797,0.0,0.76,3
+Marvin Gaye (feat. Wale) - Remix,Charlie Puth,0.456,1.0,0.633,3
+Paano Ba Ang Magmahal,Piolo Pascual,0.509,0.0,0.583,3
+Stitches,Shawn Mendes,0.0152,1.0,0.754,3
+Light,San Holo,0.0857,1.0,0.763,3
+Straight up & Down,Bruno Mars,0.0209,3.0,0.733,3
+Terrified,Katharine McPhee,0.202,3.0,0.728,3
+Too Good to Say Goodbye,Bruno Mars,0.0389,2.0,0.63,3
+Once In a While,Timeflies,0.00758,0.0,0.687,3
+Wherever You Will Go,The Calling,0.0367,2.0,0.719,3
+Hymn for the Weekend - Seeb Remix,Coldplay,0.00868,0.0,0.849,3
+Bikini Body,Dawin,0.0412,1.0,0.784,3
+Cake - Challenge Version,Flo Rida,0.0729,2.0,0.854,3
+Taped up Heart (feat. Clara Mae),KREAM,0.152,0.0,0.937,3
+All In My Head (Flex) (feat. Fetty Wap),Fifth Harmony,0.023,0.0,0.791,3
+Never Be Like You,Flume,0.436,0.0,0.559,3
+Locked Away (feat. Adam Levine),R. City,0.304,1.0,0.671,3
+When We Were Young,Adele,0.348,3.0,0.594,3
+Sunday Morning,Maroon 5,0.0913,0.0,0.768,3
+"Me, Myself & I",G-Eazy,0.0184,0.0,0.674,3
+Someday We'll Know,Mandy Moore,0.361,1.0,0.59,3
+Calling All My Lovelies,Bruno Mars,0.0392,1.0,0.705,3
+Lost Stars,Adam Levine,0.102,0.0,0.582,3
+Diwata,Abra,0.49,1.0,0.837,3
+September Song,JP Cooper,0.0545,0.0,0.654,3
+Bad Day,Daniel Powter,0.448,3.0,0.785,3
+Shape of You,Ed Sheeran,0.581,1.0,0.652,3
+Castle on the Hill,Ed Sheeran,0.0232,2.0,0.834,3
+Don't Leave,Snakehips,0.222,1.0,0.703,3
+Simpleng Tao,Gloc 9,0.18,1.0,0.686,3
+Don't,Ed Sheeran,0.0113,1.0,0.608,3
+Paris,The Chainsmokers,0.0215,2.0,0.658,3
+Dahil Sa'Yo,Inigo Pascual,0.227,0.0,0.894,3
+Run Up (feat. PARTYNEXTDOOR & Nicki Minaj),Major Lazer,0.105,1.0,0.743,3
+So Good (feat. Ty Dolla $ign),Zara Larsson,0.085,0.0,0.576,3
+Despacito (Featuring Daddy Yankee),Luis Fonsi,0.209,2.0,0.786,3
+Bounce Back,Big Sean,0.106,1.0,0.575,3
+Jeepney,Sponge Cola,0.449,2.0,0.739,3
+Realize,Colbie Caillat,0.13,1.0,0.594,3
+Chained To The Rhythm,Katy Perry,0.0733,0.0,0.801,3
+Does She Know,Kiana V,0.154,1.0,0.644,3
+As Long as You Love Me,Backstreet Boys,0.164,0.0,0.816,3
+Say It Again,Marié Digby,0.0561,0.0,0.859,3
+This I Promise You,*NSYNC,0.367,2.0,0.581,3
+Kiss Me,Sixpence None The Richer,0.023,3.0,0.749,3
+Love Myself,Hailee Steinfeld,0.00304,0.0,0.762,3
+Slide (feat. Frank Ocean & Migos),Calvin Harris,0.498,1.0,0.795,3
+Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo,0.075,1.0,0.817,3
+Shape of You (feat. Nyla & Kranium) - Major Lazer Remix,Ed Sheeran,0.00574,1.0,0.812,3
+She Will Be Loved - Radio Mix,Maroon 5,0.228,0.0,0.663,3
+Barcelona,Ed Sheeran,0.448,1.0,0.76,3
+Good Girls,LANY,0.0022,1.0,0.687,3
+Symphony (feat. Zara Larsson),Clean Bandit,0.259,0.0,0.629,3
+Good Life (with G-Eazy & Kehlani),G-Eazy,0.00464,1.0,0.771,3
+Be Our Guest,Ewan McGregor,0.412,2.0,0.6,3
+"Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",Calvin Harris,0.34,0.0,0.728,3
+HUMBLE.,Kendrick Lamar,0.000282,1.0,0.621,3
+Hymn for the Weekend,Coldplay,0.211,0.0,0.693,3
+TG4M,Zara Larsson,0.0235,3.0,0.648,3
+Birds,Coldplay,0.000315,0.0,0.841,3
+Break Up Every Night,The Chainsmokers,0.00411,1.0,0.806,3
+Last Day Alive,The Chainsmokers,0.0571,0.0,0.706,3
+FEEL.,Kendrick Lamar,0.137,0.0,0.798,3
+YAH.,Kendrick Lamar,0.576,1.0,0.7,3
+XXX. FEAT. U2.,Kendrick Lamar,0.138,1.0,0.619,3
+Despacito - Remix,Luis Fonsi,0.229,2.0,0.815,3
+There's Nothing Holdin' Me Back,Shawn Mendes,0.381,2.0,0.8,3
+Attention,Charlie Puth,0.0969,3.0,0.626,3
+Lust for Life (with The Weeknd),Lana Del Rey,0.588,0.0,0.676,3
+Plot Twist,Sigrid,0.00282,1.0,0.666,3
+First Time,Kygo,0.197,0.0,0.592,3
+Bad Things - With Camila Cabello,Machine Gun Kelly,0.229,2.0,0.692,3
+Thunder,Imagine Dragons,0.00502,0.0,0.834,3
+Call on Me - Ryan Riback Remix,Starley,0.136,0.0,0.821,3
+Told You So,Paramore,0.0029,2.0,0.814,3
+The Breakup,LANY,0.105,1.0,0.718,3
+Lost In Your Light (feat. Miguel),Dua Lipa,0.000402,2.0,0.772,3
+Forgiveness,Paramore,0.0611,2.0,0.804,3
+Pool,Paramore,0.00629,0.0,0.777,3
+Whatever It Takes,Imagine Dragons,0.0476,1.0,0.671,3
+Nights With You,MØ,0.401,1.0,0.671,3
+The Way I Are (Dance with Somebody) (feat. Lil Wayne) - Spotify Version,Bebe Rexha,0.00282,2.0,0.659,3
+Tired,Alan Walker,0.0428,2.0,0.876,3
+Hands,Mike Perry,0.0175,0.0,0.705,3
+Your Song,Rita Ora,0.158,1.0,0.624,3
+Perfect Places,Lorde,0.00289,1.0,0.574,3
+Bad At Love,Halsey,0.0604,0.0,0.751,3
+Love Story,Taylor Swift,0.17,2.0,0.741,3
+Back To December,Taylor Swift,0.117,2.0,0.67,3
+Red,Taylor Swift,0.0773,1.0,0.896,3
+Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,0.0329,0.0,0.672,3
+Signs,Drake,0.0864,0.0,0.727,3
+Glorious (feat. Skylar Grey),Macklemore,0.0323,0.0,0.794,3
+Where The Love Goes,Anjulie,0.23,0.0,0.678,3
+Skrt On Me (feat. Nicki Minaj),Calvin Harris,0.169,0.0,0.889,3
+All Stars,Martin Solveig,0.151,1.0,0.722,3
+Get Low (with Liam Payne),Zedd,0.0215,1.0,0.917,3
+Mean 2 U,James Reid,0.528,1.0,0.737,3
+Fetish (feat. Gucci Mane),Selena Gomez,0.0204,2.0,0.61,3
+Rich Love (with Seeb),OneRepublic,0.183,1.0,0.868,3
+Ko Ko Bop - Chinese Version,EXO,0.0381,0.0,0.853,3
+In the End,Linkin Park,0.00958,3.0,0.864,3
+Leave Out All The Rest,Linkin Park,0.213,0.0,0.637,3
+Somewhere I Belong,Linkin Park,0.00038,1.0,0.951,3
+Numb / Encore,JAY-Z,0.0603,2.0,0.793,3
+Talking to Myself,Linkin Park,0.00184,2.0,0.712,3
+Sorry for Now,Linkin Park,0.00995,1.0,0.584,3
+Ko Ko Bop,EXO,0.0319,0.0,0.85,3
+My December,Linkin Park,0.375,0.0,0.585,3
+From the Inside,Linkin Park,0.042,1.0,0.965,3
+Sharp Edges,Linkin Park,0.145,0.0,0.714,3
+Iridescent,Linkin Park,0.198,0.0,0.727,3
+Sober,Cheat Codes,0.301,1.0,0.577,3
+Hurts,LANY,0.246,0.0,0.813,3
+Dumb Stuff,LANY,0.0776,0.0,0.894,3
+Flowers On The Floor,LANY,0.0775,1.0,0.621,3
+4EVER!,LANY,0.03,0.0,0.754,3
+Without You (feat. Sandro Cavazza),Avicii,0.00179,2.0,0.855,3
+What About Us,P!nk,0.0252,1.0,0.594,3
+One Step At a Time,Jordin Sparks,0.0825,1.0,0.692,3
+Love Galore (feat. Travis Scott),SZA,0.112,0.0,0.594,3
+Future Me,Echosmith,0.00769,2.0,0.709,3
+He Like That,Fifth Harmony,0.362,0.0,0.681,3
+...Ready For It?,Taylor Swift,0.0573,2.0,0.77,3
+Staying Up,Matoma,0.199,0.0,0.865,3
+Feel It Still,Portugal. The Man,0.0417,1.0,0.795,3
+DNA,BTS,0.022,1.0,0.775,3
+Pied Piper,BTS,0.2,2.0,0.712,3
+Outro: Her,BTS,0.317,3.0,0.927,3
+Skit: Billboard Music Awards Speech,BTS,0.38,0.0,0.694,3
+One Foot,WALK THE MOON,0.00773,0.0,0.826,3
+The Way Life Goes (feat. Oh Wonder),Lil Uzi Vert,0.617,1.0,0.757,3
+How Long,Charlie Puth,0.189,1.0,0.581,3
+Nobody Compares To You,Gryffin,0.216,2.0,0.739,3
+Sugar,Maroon 5,0.0591,1.0,0.788,3
+Just Like You,Louis Tomlinson,0.364,0.0,0.628,3
+Feels Great (feat. Fetty Wap & CVBZ),Cheat Codes,0.0454,0.0,0.833,3
+New,Daya,0.052,0.0,0.742,3
+Personal,The Vamps,0.0658,0.0,0.697,3
+Bedroom Floor,Liam Payne,0.301,1.0,0.679,3
+Kids in Love,Kygo,0.435,0.0,0.67,3
+I Miss You (feat. Julia Michaels),Clean Bandit,0.245,3.0,0.658,3
+All Falls Down (feat. Juliander),Alan Walker,0.303,1.0,0.678,3
+Kids in Love (feat. The Night Game),Kygo,0.399,0.0,0.673,3
+Stranger Things (feat. OneRepublic),Kygo,0.234,0.0,0.661,3
+Dirty Sexy Money (feat. Charli XCX & French Montana),David Guetta,0.0789,1.0,0.873,3
+No Limit,G-Eazy,0.0117,1.0,0.771,3
+Havana - Remix,Camila Cabello,0.398,2.0,0.579,3
+Homemade Dynamite - REMIX,Lorde,0.261,0.0,0.55,3
+Peek-A-Boo,Red Velvet,0.0868,1.0,0.902,3
+"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",Machine Gun Kelly,0.00413,3.0,0.718,3
+Is Your Love Enough?,Little Mix,0.00642,0.0,0.854,3
+Get It Right (feat. MØ),Diplo,0.108,0.0,0.833,3
+End Game,Taylor Swift,0.00845,2.0,0.589,3
+I Did Something Bad,Taylor Swift,0.0679,0.0,0.602,3
+Getaway Car,Taylor Swift,0.00465,2.0,0.689,3
+Him & I,G-Eazy,0.0534,2.0,0.731,3
+King Of My Heart,Taylor Swift,0.00882,0.0,0.703,3
+Crystal Snow,BTS,0.126,3.0,0.768,3
+Never Be the Same - Radio Edit,Camila Cabello,0.156,0.0,0.682,3
+Never Be the Same,Camila Cabello,0.145,0.0,0.709,3
+How Long - Remix,Charlie Puth,0.17,1.0,0.631,3
+Him & I (with Halsey),G-Eazy,0.0534,2.0,0.731,3
+Champion - Remix,Fall Out Boy,0.0513,2.0,0.726,3
+Ngayong Gabi,Al James,0.594,2.0,0.628,3
+Need You,Ex Battalion,0.484,1.0,0.596,3
+Santa's Coming for Us,Sia,0.0205,1.0,0.854,3
+Thunder / Young Dumb & Broke (with Khalid) - Medley,Imagine Dragons,0.113,0.0,0.684,3
+My Only Wish (This Year),Britney Spears,0.171,0.0,0.844,3
+Ngayong Pasko Magniningning Ang Pilipino,Gary Valenciano,0.612,0.0,0.597,3
+Santa Claus Is Coming To Town,The Jackson 5,0.271,0.0,0.577,3
+Kwento Ng Pasko,ABS-CBN Music All Star,0.0805,1.0,0.752,3
+Pasko Sa Pinas,Yeng Constantino,0.391,2.0,0.595,3
+"Thank You, Ang Babait Ninyo",Lyca Gairanod,0.207,2.0,0.62,3
+I Saw Mommy Kissing Santa Claus,The Jackson 5,0.356,3.0,0.603,3
+You Make It Feel Like Christmas (feat. Blake Shelton),Gwen Stefani,0.0123,0.0,0.876,3
+Dear Santa - English Version,Girls' Generation-TTS,0.426,1.0,0.669,3
+Candy Cane Lane,Sia,0.00366,1.0,0.91,3
+Feliz Navidad,Glee Cast,0.109,2.0,0.929,3
+Do They Know It's Christmas? - 1984 Version,Band Aid,0.164,0.0,0.642,3
+"Dying Inside To Hold You - From "" All Of You"" Official Soundtrack",Darren Espanto,0.336,0.0,0.625,3
+That's What I Like - Alan Walker Remix,Bruno Mars,0.0121,1.0,0.896,3
+Shape of You - Galantis Remix,Ed Sheeran,0.0514,1.0,0.765,3
+Get Low,Zedd,0.0277,1.0,0.926,3
+Heartbeat,Leroy Styles,0.0225,1.0,0.595,3
+Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,0.0291,2.0,0.922,3
+Sucker for You,Matt Terry,0.218,0.0,0.649,3
+For You (Fifty Shades Freed) (& Rita Ora),Liam Payne,0.0188,2.0,0.799,3
+Filthy,Justin Timberlake,0.0354,1.0,0.579,3
+Walang Tayo,Ex Battalion,0.28,1.0,0.582,3
+Hanggang Kailan - Umuwi Ka Na Baby,Orange & Lemons,0.116,0.0,0.674,3
+She Loves Control,Camila Cabello,0.166,2.0,0.758,3
+Tell Me,Ex Battalion,0.538,2.0,0.677,3
+Cebuana,Karencitta,0.468,0.0,0.789,3
+Capital Letters,Hailee Steinfeld,0.0342,0.0,0.82,3
+This Is Me,Keala Settle,0.00583,2.0,0.704,3
+"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,0.194,0.0,0.809,3
+Miss You (with Major Lazer & Tory Lanez),Cashmere Cat,0.25,1.0,0.641,3
+Shantidope,Shanti Dope,0.199,1.0,0.639,3
+Stir Fry,Migos,0.00316,2.0,0.819,3
+All Falls Down,Alan Walker,0.303,1.0,0.678,3
+Bad Boy,Red Velvet,0.191,2.0,0.736,3
+Pray For Me (with Kendrick Lamar),The Weeknd,0.0805,2.0,0.668,3
+The Other Side,Hugh Jackman,0.00433,0.0,0.795,3
+Black Panther,Kendrick Lamar,0.62,1.0,0.588,3
+Truly Madly Deeply,Savage Garden,0.403,0.0,0.698,3
+"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,0.000813,1.0,0.705,3
+Lullaby,R3HAB,0.0267,1.0,0.8,3
+Want You Back,5 Seconds of Summer,0.00748,0.0,0.873,3
+Next To Me,Imagine Dragons,0.328,2.0,0.687,3
+Like I Do,David Guetta,0.00664,0.0,0.9,3
+Hope World,j-hope,0.0138,1.0,0.896,3
+Airplane,j-hope,0.649,0.0,0.65,3
+Put Me Back Together (feat. Kiiara),Cheat Codes,0.0404,0.0,0.644,3
+Laro,Autotelic,0.00193,0.0,0.823,3
+BBoom BBoom,MOMOLAND,0.0149,3.0,0.744,3
+Mad Love,Sean Paul,0.006,2.0,0.824,3
+SouthBoys,Ex Battalion,0.0365,0.0,0.648,3
+Playinwitme (feat. Kehlani),KYLE,0.302,1.0,0.587,3
+Lemon (feat. Drake) - Drake Remix,N.E.R.D,0.000738,1.0,0.657,3
+Call Out My Name,The Weeknd,0.218,1.0,0.598,3
+Walk It Talk It,Migos,0.0876,2.0,0.633,3
+One I Love,BATE,0.0259,3.0,0.879,3
+no tears left to cry,Ariana Grande,0.0375,0.0,0.696,3
+KOD,J. Cole,0.21,0.0,0.783,3
+OTW,Khalid,0.183,2.0,0.678,3
+2002,Anne-Marie,0.0372,1.0,0.683,3
+Wake Me Up - Radio Edit,Avicii,0.0038,2.0,0.783,3
+Levels - Radio Edit,Avicii,0.0484,1.0,0.887,3
+The Days,Avicii,0.04,0.0,0.724,3
+For A Better Day,Avicii,0.0482,2.0,0.836,3
+Bad,Christopher,0.0664,1.0,0.585,3
+Spoil My Night (feat. Swae Lee),Post Malone,0.341,1.0,0.717,3
+Have It All,Jason Mraz,0.192,1.0,0.617,3
+Bloom,Troye Sivan,0.031,0.0,0.701,3
+Hold On Tight,R3HAB,0.454,0.0,0.647,3
+Patient,Charlie Puth,0.752,1.0,0.604,3
+Audio,Sia,0.192,3.0,0.692,3
+Wonderwall - Remastered,Oasis,0.000452,2.0,0.896,3
+FAKE LOVE,BTS,0.00267,2.0,0.719,3
+Magic Shop,BTS,0.103,1.0,0.661,3
+Airplane pt.2,BTS,0.0268,0.0,0.817,3
+Anpanman,BTS,0.0237,1.0,0.875,3
+Sangria Wine,Pharrell Williams,0.181,1.0,0.713,3
+Start Again (feat. Logic),OneRepublic,0.162,1.0,0.722,3
+Jackie Chan,Tiësto,0.374,3.0,0.834,3
+Nervous,Shawn Mendes,0.041,0.0,0.622,3
+"Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",Diplo,0.114,2.0,0.845,3
+Rise,Jonas Blue,0.323,1.0,0.784,3
+Yikes,Kanye West,0.145,1.0,0.777,3
+FAKE LOVE (Rocking Vibe Mix),BTS,0.0573,2.0,0.804,3
+Forget to Forget,SHY Martin,0.0732,1.0,0.602,3
+Colour,MNEK,0.408,0.0,0.782,3
+Enemies,Lauv,0.175,3.0,0.693,3
+Hooked,Why Don't We,0.0718,1.0,0.624,3
+Taste (feat. Offset),Tyga,0.0236,0.0,0.559,3
+Really,BLACKPINK,0.0235,1.0,0.881,3
+Ocean (feat. Khalid),Martin Garrix,0.584,0.0,0.693,3
+Growing Pains,Alessia Cara,0.0822,1.0,0.755,3
+Dura,Daddy Yankee,0.174,1.0,0.846,3
+Born To Be Yours,Kygo,0.3,3.0,0.688,3
+Safe,Daya,0.089,0.0,0.696,3
+Emotionless,Drake,0.0239,1.0,0.676,3
+APESHIT,The Carters,0.0133,2.0,0.784,3
+Lumalapit,The Juans,0.0174,2.0,0.612,3
+REALLY - KR Ver.,BLACKPINK,0.0234,1.0,0.882,3
+I See Love - From Hotel Transylvania 3,Jonas Blue,0.0133,2.0,0.706,3
+Dance The Night Away,TWICE,0.106,0.0,0.861,3
+Summertime Magic,Childish Gambino,0.0127,0.0,0.579,3
+Body,Loud Luxury,0.0476,1.0,0.764,3
+God is a woman,Ariana Grande,0.0268,1.0,0.673,3
+Feel,Triple H,0.0699,2.0,0.858,3
+Natural,Imagine Dragons,0.216,2.0,0.612,3
+No Brainer,DJ Khaled,0.0733,0.0,0.76,3
+Eroplanong Papel,December Avenue,0.00753,0.0,0.647,3
+Still New York (feat. Joey Bada$$),MAX,0.23,1.0,0.677,3
+Beautiful (feat. Camila Cabello),Bazzi,0.346,2.0,0.717,3
+Too Much (feat. Timbaland),ZAYN,0.00434,0.0,0.635,3
+"Bad Boy - English Version, Bonus Track",Red Velvet,0.21,2.0,0.726,3
+Body (feat. brando),Loud Luxury,0.0476,1.0,0.764,3
+successful,Ariana Grande,0.107,0.0,0.603,3
+I Don't Wanna Love You Anymore,LANY,0.338,0.0,0.622,3
+Euphoria,BTS,0.394,2.0,0.799,3
+Trivia 起 : Just Dance,BTS,0.0907,1.0,0.906,3
+Answer : Love Myself,BTS,0.189,1.0,0.793,3
+Goodbye (feat. Nicki Minaj & Willy William),Jason Derulo,0.0776,0.0,0.904,3
+DNA (Pedal 2 LA Mix),BTS,0.0352,1.0,0.955,3
+Crying Over You ◐,HONNE,0.0815,1.0,0.62,3
+All I Am,Jess Glynne,0.0445,0.0,0.669,3
+Lucky Strike,Troye Sivan,0.579,2.0,0.694,3
+Greatest,Eminem,0.0441,1.0,0.737,3
+Kamikaze,Eminem,0.112,2.0,0.808,3
+Narcissist,No Rome,0.219,3.0,0.682,3
+Electricity (with Dua Lipa),Silk City,0.0104,0.0,0.67,3
+REMEDY,Alesso,0.269,0.0,0.775,3
+Level Up,Ciara,0.0142,1.0,0.825,3
+Better,Khalid,0.0984,0.0,0.585,3
+Killshot,Eminem,0.0995,0.0,0.651,3
+This Feeling (feat. Kelsea Ballerini),The Chainsmokers,0.0651,1.0,0.651,3
+Sa Kahapon,IV Of Spades,0.307,0.0,0.887,3
+Venom - Music From The Motion Picture,Eminem,0.0193,0.0,0.794,3
+There's No Way (feat. Julia Michaels),Lauv,0.49,2.0,0.625,3
+If You See Her,LANY,0.0375,1.0,0.679,3
+Sweet but Psycho,Ava Max,0.0691,1.0,0.704,3
+It's Not Living (If It's Not With You),The 1975,0.000254,1.0,0.837,3
+seoul (prod. HONNE),RM,0.344,0.0,0.664,3
+uhgood,RM,0.00135,0.0,0.559,3
+Diamond Heart,Alan Walker,0.129,0.0,0.638,3
+Close To Me (with Diplo) (feat. Swae Lee),Ellie Goulding,0.0954,1.0,0.758,3
+Checklist (with Calvin Harris) (feat. WizKid),Normani,0.0937,1.0,0.624,3
+Thursday,Jess Glynne,0.428,2.0,0.582,3
+Tempo,EXO,0.237,0.0,0.842,3
+Sign,EXO,0.0135,1.0,0.669,3
+Gravity,EXO,0.0711,1.0,0.864,3
+24/7,EXO,0.1,0.0,0.594,3
+With You,EXO,0.223,1.0,0.74,3
+"thank u, next",Ariana Grande,0.28,1.0,0.647,3
+Under Pressure - Remastered 2011,Queen,0.429,2.0,0.712,3
+Statue,Lil Eddie,0.633,1.0,0.57,3
+Crazy Little Thing Called Love - Remastered 2011,Queen,0.713,0.0,0.761,3
+SOLO,JENNIE,0.0861,3.0,0.642,3
+Beach House,The Chainsmokers,0.19,0.0,0.837,3
+RBB (Really Bad Boy) - English Version,Red Velvet,0.0117,2.0,0.867,3
+RBB (Really Bad Boy),Red Velvet,0.012,2.0,0.85,3
+Kunwari,Sponge Cola,0.0778,3.0,0.845,3
+Miss Independent,Ne-Yo,0.522,1.0,0.683,3
+This Feeling,The Chainsmokers,0.0558,1.0,0.571,3
+Hope,The Chainsmokers,0.488,1.0,0.699,3
+"Baby, It's Cold Outside (feat. Meghan Trainor)",Brett Eldredge,0.738,1.0,0.572,3
+Santa Baby,Ariana Grande,0.0501,0.0,0.778,3
+Happy Xmas (War Is Over) - Remastered 2010,John Lennon,0.318,2.0,0.607,3
+Christmas (Baby Please Come Home),Mariah Carey,0.022,3.0,0.782,3
+Jingle Bell Rock - Daryl's Version,Daryl Hall & John Oates,0.613,2.0,0.841,3
+"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",Bruce Springsteen,0.362,0.0,0.668,3
+This Christmas,Christina Aguilera,0.0687,1.0,0.744,3
+Pauwi Nako,PDL,0.0175,1.0,0.746,3
+Cebuana - Muffin Remix,Karencitta,0.125,0.0,0.874,3
+Tears & Tantrums,XYLØ,0.0408,3.0,0.812,3
+"These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - R3hab Remix",Rudimental,0.225,0.0,0.738,3
+Lost in the Fire,Gesaffelstein,0.0863,2.0,0.675,3
+Giant (with Rag'n'Bone Man),Calvin Harris,0.016,1.0,0.887,3
+Sweet Shadow,IV Of Spades,0.00329,2.0,0.723,3
+a lot,21 Savage,0.0395,1.0,0.636,3
+Bones (feat. OneRepublic),Galantis,0.00463,0.0,0.804,3
+bloodline,Ariana Grande,0.0815,2.0,0.665,3
+bad idea,Ariana Grande,0.0276,1.0,0.58,3
+in my head,Ariana Grande,0.173,0.0,0.6,3
+Who Do You Love,The Chainsmokers,0.00791,3.0,0.835,3
+Please Me,Cardi B,0.0642,1.0,0.57,3
+365,Zedd,0.339,2.0,0.693,3
+Better When You're Gone,David Guetta,0.0635,1.0,0.795,3
+Dumb Blonde (feat. Nicki Minaj),Avril Lavigne,0.166,1.0,0.852,3
+Sucker,Jonas Brothers,0.0427,1.0,0.734,3
+Blue Orangeade,TOMORROW X TOGETHER,0.00611,0.0,0.848,3
+Kontrabida,Pricetagg,0.245,1.0,0.791,3
+Bagay Tayo,ALLMO$T,0.322,0.0,0.557,3
+On My Way,Alan Walker,0.0209,1.0,0.689,3
+Self,Khalid,0.44,1.0,0.693,3
+Kill This Love,BLACKPINK,0.32,2.0,0.861,3
+Kick It,BLACKPINK,0.0153,1.0,0.787,3
+Close To Me - Red Velvet Remix,Ellie Goulding,0.233,1.0,0.686,3
+Cool,Jonas Brothers,0.0105,0.0,0.603,3
+Earth,Lil Dicky,0.639,2.0,0.664,3
+STUCK IN MY HEAD,TWICE,0.117,0.0,0.778,3
+What I Like About You (feat. Theresa Rex),Jonas Blue,0.289,1.0,0.8,3
+ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,0.0291,0.0,0.839,3
+Drugs & The Internet,Lauv,0.321,2.0,0.583,3
+If I Can't Have You,Shawn Mendes,0.524,2.0,0.809,3
+Wrong,Luh Kel,0.352,0.0,0.728,3
+Mother's Daughter,Miley Cyrus,0.00464,1.0,0.865,3
+Tayo Na Lang Dalawa,Mayonnaise,4.47e-05,1.0,0.969,3
+Dream Glow (BTS World Original Soundtrack) - Pt. 1,BTS,0.0967,0.0,0.74,3
+You Need To Calm Down,Taylor Swift,0.00838,2.0,0.678,3
+Sanctuary,Joji,0.422,1.0,0.65,3
+Sad Song (feat. TINI),Alesso,0.0878,0.0,0.693,3
+Ritual,Tiësto,0.157,3.0,0.726,3
+BLOW (with Chris Stapleton & Bruno Mars),Ed Sheeran,0.000245,1.0,0.796,3
+Let's Do It Again,J Boog,0.578,0.0,0.696,3
+Way To Break My Heart (feat. Skrillex),Ed Sheeran,0.11,1.0,0.731,3
+How Do You Sleep?,Sam Smith,0.153,1.0,0.682,3
+The Archer,Taylor Swift,0.12,0.0,0.573,3
+Ain't Nobody Takin My Baby,Russ,0.673,0.0,0.57,3
+ICY,ITZY,0.0324,2.0,0.904,3
+No Way!,Bazzi,0.174,1.0,0.709,3
+Somebody To You,The Vamps,0.0587,3.0,0.818,3
+Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Megan Thee Stallion,0.00485,0.0,0.814,3
+The Man,Taylor Swift,0.0767,0.0,0.658,3
+Cornelia Street,Taylor Swift,0.781,0.0,0.624,3
+London Boy,Taylor Swift,0.0246,1.0,0.71,3
+What Am I,Why Don't We,0.0687,0.0,0.647,3
+Circles,Post Malone,0.233,0.0,0.758,3
+Good as Hell,Lizzo,0.256,0.0,0.919,3
+Saint-Tropez,Post Malone,0.0545,0.0,0.684,3
+Go Up,SB19,0.423,0.0,0.944,3
+Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey),Ariana Grande,0.00268,1.0,0.721,3
+Feel Special,TWICE,0.0296,1.0,0.959,3
+RAINBOW,TWICE,0.0203,0.0,0.844,3
+TRICK IT,TWICE,0.0895,0.0,0.897,3
+LOVE FOOLISH,TWICE,0.11,2.0,0.836,3
+Chicken Noodle Soup (feat. Becky G),j-hope,0.00502,2.0,0.817,3
+Miracle Nights,ALLMO$T,0.543,1.0,0.569,3
+Lonely,Diplo,0.062,1.0,0.717,3
+Good Thing (with Kehlani),Zedd,0.399,1.0,0.564,3
+Take What You Want (feat. Ozzy Osbourne & Travis Scott),Post Malone,0.0906,1.0,0.8,3
+Lights Up,Harry Styles,0.0426,3.0,0.62,3
+9 and Three Quarters (Run Away),TOMORROW X TOGETHER,0.0055,1.0,0.756,3
+Follow God,Kanye West,0.000248,1.0,0.9,3
+God Is,Kanye West,0.34,1.0,0.637,3
+Welcome to the Black Parade,My Chemical Romance,0.000289,2.0,0.905,3
+Up All Night,Khalid,0.00103,1.0,0.712,3
+Watermelon Sugar,Harry Styles,0.122,0.0,0.816,3
+Tongue Tied (with YUNGBLUD & blackbear),Marshmello,0.0208,1.0,0.821,3
+Blueming,IU,0.0849,0.0,0.674,3
+GIANTS,True Damage,0.0834,1.0,0.683,3
+Into the Unknown - Panic! At The Disco Version,Panic! At The Disco,0.0244,1.0,0.828,3
+Ayy Macarena,Tyga,0.133,2.0,0.629,3
+Blinding Lights,The Weeknd,0.00147,1.0,0.796,3
+SUGA's Interlude,Halsey,0.0864,0.0,0.732,3
+Like It's Christmas,Jonas Brothers,0.0183,1.0,0.571,3
+Magkasama tayo sa Kwento ng Pasko - Abs-CBN 2013 Christmas Station Id,ABS-CBN Music All Star,0.132,0.0,0.711,3
+Alab (Burning),SB19,0.0176,0.0,0.927,3
+HIP,MAMAMOO,0.0376,3.0,0.731,3
+Tusa,KAROL G,0.295,2.0,0.715,3
+"Alone, Pt. II",Alan Walker,0.536,3.0,0.668,3
+Chills,Why Don't We,0.00483,1.0,0.689,3
+Life Is Good (feat. Drake),Future,0.0706,2.0,0.609,3
+You should be sad,Halsey,0.143,2.0,0.585,3
+Black Swan,BTS,0.137,2.0,0.758,3
+Physical,Dua Lipa,0.0137,0.0,0.844,3
+My Love,Westlife,0.098,0.0,0.593,3
+Relationship (feat. Future),Young Thug,0.00252,2.0,0.597,3
+No Judgement,Niall Horan,0.0564,1.0,0.726,3
+My Time,BTS,0.151,0.0,0.64,3
+Louder than bombs,BTS,0.0433,0.0,0.667,3
+Friends,BTS,0.0668,1.0,0.747,3
+Respect,BTS,0.00485,0.0,0.84,3
+Outro : Ego,BTS,0.0121,0.0,0.903,3
+Feel Me,Selena Gomez,0.44,2.0,0.808,3
+Blueberry Faygo,Lil Mosey,0.207,0.0,0.554,3
+Old Me,5 Seconds of Summer,0.304,0.0,0.621,3
+Physical (feat. Hwa Sa),Dua Lipa,0.0288,0.0,0.873,3
+Snowchild,The Weeknd,0.162,0.0,0.611,3
+Save Your Tears,The Weeknd,0.0212,0.0,0.826,3
+Faith,The Weeknd,0.612,0.0,0.605,3
+Bounty,Ex Battalion,0.0644,0.0,0.584,3
+Malayo Ka Man,Jr Crown,0.18,1.0,0.597,3
+Like It Is,Kygo,0.121,1.0,0.728,3
+If You’re Too Shy (Let Me Know),The 1975,0.0151,2.0,0.63,3
+If You’re Too Shy (Let Me Know) - Edit,The 1975,0.00399,2.0,0.806,3
+Righteous,Juice WRLD,0.0397,0.0,0.622,3
+"I Choose - From The Netflix Original Film ""The Willoughbys""",Alessia Cara,0.386,0.0,0.631,3
+eight(Prod.&Feat. SUGA of BTS),IU,0.115,1.0,0.869,3
+Huling Sayaw,Kamikazee,0.00125,1.0,0.871,3
+Zombie - English Ver.,DAY6,0.0071,0.0,0.576,3
+good guys,LANY,0.593,0.0,0.677,3
+Lose Somebody,Kygo,0.344,1.0,0.586,3
+Drama,TOMORROW X TOGETHER,0.0705,1.0,0.961,3
+Fairy of Shampoo,TOMORROW X TOGETHER,0.301,1.0,0.787,3
+What do you think?,Agust D,0.149,1.0,0.725,3
+People,Agust D,0.0616,1.0,0.682,3
+Honsool,Agust D,0.00036,1.0,0.574,3
+Dear my friend (feat. Kim Jong Wan of NELL),Agust D,0.0181,0.0,0.735,3
+Punch,NCT 127,0.0353,1.0,0.915,3
+R U Ridin’?,BAEKHYUN,0.0427,1.0,0.851,3
+Bungee,BAEKHYUN,0.611,0.0,0.758,3
+Free Woman,Lady Gaga,0.0228,0.0,0.927,3
+Enigma,Lady Gaga,0.0306,0.0,0.804,3
+Plastic Doll,Lady Gaga,0.0019,0.0,0.853,3
+Sine From Above (with Elton John),Lady Gaga,0.158,0.0,0.792,3
+Replay,Lady Gaga,0.00792,1.0,0.878,3
+Babylon,Lady Gaga,0.0129,2.0,0.799,3
+3AM,Russ,0.108,0.0,0.657,3
+OXYGEN,TWICE,0.0564,0.0,0.87,3
+DON’T CALL ME AGAIN,TWICE,0.00146,2.0,0.902,3
+DON'T CALL ME AGAIN,TWICE,0.00146,2.0,0.902,3
+Freedom (feat. Kendrick Lamar),Beyoncé,0.0376,2.0,0.803,3
+Stay Gold,BTS,0.0873,1.0,0.631,3
+Fearless,SEVENTEEN,0.225,1.0,0.786,3
+I Wish,SEVENTEEN,0.173,2.0,0.736,3
+Go Crazy,Chris Brown,0.316,0.0,0.578,3
+can’t bear to be without you,HONNE,0.707,1.0,0.767,3
+Jelly,Red Velvet - IRENE & SEULGI,0.106,0.0,0.919,3
+Uncover (Sung by SEULGI) - Bonus Track,Red Velvet - IRENE & SEULGI,0.524,1.0,0.61,3
+Pac-Man,Michael Bars,0.363,2.0,0.653,3
+Come & Go (with Marshmello),Juice WRLD,0.0172,0.0,0.814,3
+1 Billion Views,EXO-SC,0.362,0.0,0.727,3
+Smile,Katy Perry,0.0238,0.0,0.912,3
+Love In My Pocket,Rich Brian,0.02,0.0,0.615,3
+Story of My Life,One Direction,0.225,3.0,0.663,3
+They Don't Know About Us,One Direction,0.135,0.0,0.754,3
+Drag Me Down,One Direction,0.109,0.0,0.703,3
+Live While We're Young,One Direction,0.0629,2.0,0.837,3
+Best Song Ever,One Direction,0.0227,1.0,0.877,3
+One Thing,One Direction,0.00233,2.0,0.718,3
+More Than This,One Direction,0.0607,0.0,0.715,3
+cardigan,Taylor Swift,0.537,0.0,0.581,3
+mad woman,Taylor Swift,0.655,3.0,0.699,3
+Nobody's Love,Maroon 5,0.31,1.0,0.567,3
+Love Goes,SB19,0.196,0.0,0.663,3
+Not Shy,ITZY,0.155,2.0,0.911,3
+Dynamite - Acoustic Remix,BTS,0.0228,1.0,0.889,3
+Dynamite - EDM Remix,BTS,0.0019,1.0,0.838,3
+Dynamite - Tropical Remix,BTS,0.0295,1.0,0.896,3
+Dynamite - Poolside Remix,BTS,0.0089,1.0,0.877,3
+Cry About It Later,Katy Perry,0.0794,2.0,0.669,3
+Take You Dancing,Jason Derulo,0.0332,2.0,0.711,3
+Mad at Disney,salem ilese,0.424,0.0,0.621,3
+OK Not To Be OK,Marshmello,0.0172,1.0,0.837,3
+Kabet,Gagong Rapper,0.67,0.0,0.742,3
+Blueberry Eyes (feat. SUGA of BTS),MAX,0.454,0.0,0.611,3
+"Lemonade (feat. Gunna, Don Toliver & NAV)",Internet Money,0.25,1.0,0.658,3
+Dynamite - Bedroom Remix,BTS,0.0631,1.0,0.745,3
+Savage Love (Laxed – Siren Beat) [BTS Remix],Jawsh 685,0.16,0.0,0.598,3
+heart won't let me,LANY,0.261,0.0,0.655,3
+Wonder,Shawn Mendes,0.131,1.0,0.637,3
+Crush,David Archuleta,0.00836,0.0,0.664,3
+Sofia,Clairo,0.598,0.0,0.619,3
+From Home,NCT U,0.516,1.0,0.859,3
+Not a Pop Song,Little Mix,0.279,0.0,0.651,3
+HOME;RUN,SEVENTEEN,0.0613,2.0,0.942,3
+Do Re Mi,SEVENTEEN,0.103,0.0,0.743,3
+AH! LOVE,SEVENTEEN,0.362,1.0,0.688,3
+positions,Ariana Grande,0.468,0.0,0.802,3
+UP NO MORE,TWICE,0.0298,2.0,0.88,3
+BRING IT BACK,TWICE,0.207,2.0,0.638,3
+QUEEN,TWICE,0.139,0.0,0.837,3
+SHOT CLOCK,TWICE,0.108,1.0,0.927,3
+Blue Hour,TOMORROW X TOGETHER,0.00962,3.0,0.82,3
+Wishlist,TOMORROW X TOGETHER,0.00059,3.0,0.92,3
+MORE,K/DA,0.00257,1.0,0.787,3
+34+35,Ariana Grande,0.237,0.0,0.585,3
+safety net (feat. Ty Dolla $ign),Ariana Grande,0.0703,1.0,0.599,3
+obvious,Ariana Grande,0.0967,0.0,0.672,3
+ORANGE,TREASURE,0.0254,1.0,0.61,3
+I'LL SHOW YOU,K/DA,0.0136,0.0,0.872,3
+MMM,TREASURE,0.0518,1.0,0.746,3
+Black Mamba,aespa,0.0618,2.0,0.915,3
+Life Goes On,BTS,0.00691,1.0,0.716,3
+Prisoner (feat. Dua Lipa),Miley Cyrus,0.0103,3.0,0.67,3
+Agent Orange,Slapshock,0.0111,3.0,0.725,3
+Running,Gaho,0.203,2.0,0.85,3
+Amnesia,KAI,0.303,2.0,0.661,3
+LAST PIECE,GOT7,0.0324,3.0,0.866,3
+long story short,Taylor Swift,0.674,0.0,0.732,3
+Ngayong Pasko Magniningning ang Pilipino,ABS-CBN Music All Star,0.583,0.0,0.644,3
+Oh Santa! (feat. Ariana Grande & Jennifer Hudson),Mariah Carey,0.0339,1.0,0.938,3
+Christmas Without You,Ava Max,0.424,1.0,0.596,3
+I Gotta Feeling,Black Eyed Peas,0.0873,0.0,0.766,3
+I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,0.207,1.0,0.824,3
+Wake Me Up,Avicii,0.0038,2.0,0.783,3
+Good Days,SZA,0.499,1.0,0.655,3
+SLOWMOTION,TREASURE,0.266,0.0,0.583,3
+"34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",Ariana Grande,0.205,0.0,0.662,3
+Panalo (Trap Cariñosa),Ez Mil,0.0246,0.0,0.776,3
+Idk,Ez Mil,0.281,0.0,0.597,3
+Love Story (Taylor’s Version),Taylor Swift,0.135,2.0,0.79,3
+"Beginning Middle End - From The Netflix Film ""To All The Boys: Always and Forever""",Leah Nobel,0.43,2.0,0.676,3
+Tomboy,Destiny Rogers,0.423,0.0,0.645,3
+Encore,GOT7,0.0434,2.0,0.756,3
+It Will Rain,Bruno Mars,0.359,2.0,0.824,3
+Why Why Why,iKON,0.172,0.0,0.634,3
+Hold On,Justin Bieber,0.0106,1.0,0.634,3
+What’s Next,Drake,0.0136,0.0,0.594,3
+Talking to the Moon,Bruno Mars,0.511,1.0,0.59,3
+On The Ground,ROSÉ,0.0174,1.0,0.607,3
+Best I Ever Had,Drake,0.19,1.0,0.922,3
+Kiss (Never Let Me Go),Thyro,0.0711,0.0,0.652,3
+Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,0.321,0.0,0.696,3
+Die For You (feat. Dominic Fike),Justin Bieber,0.00196,1.0,0.632,3
+Loved By You (feat. Burna Boy),Justin Bieber,0.0696,1.0,0.724,3
+Goosebumps - Remix,Travis Scott,0.418,1.0,0.593,3
+LILAC,IU,0.0895,2.0,0.89,3
+Flu,IU,0.0981,2.0,0.647,3
+Coin,IU,0.00849,1.0,0.879,3
+All I Got,BAEKHYUN,0.249,3.0,0.614,3
+Cry For Love,BAEKHYUN,0.338,1.0,0.692,3
+The Road,WENDY,0.529,2.0,0.628,3
+Breathe (feat. Colbie Caillat) (Taylor’s Version),Taylor Swift,0.156,1.0,0.626,3
+Jump Then Fall (Taylor’s Version),Taylor Swift,0.0474,2.0,0.69,3
+The Best Day (Taylor’s Version),Taylor Swift,0.488,1.0,0.576,3
+ひとりじゃない,SEVENTEEN,0.0301,2.0,0.706,3
+everyday we fight,DAY6,0.00333,3.0,0.736,3
+Healer,DAY6,0.00145,2.0,0.741,3
+Save Your Tears (with Ariana Grande) (Remix),The Weeknd,0.0215,0.0,0.825,3
+Not For Sale,ENHYPEN,0.0612,2.0,0.589,3
+Outro : The Wormhole,ENHYPEN,0.0612,0.0,0.671,3
+After School,Weeekly,0.00719,1.0,0.928,3
+beside you,keshi,0.459,0.0,0.747,3
+TENNIS (0:0),ITZY,0.135,0.0,0.66,3
+Booty Wurk (One Cheek At a Time),T-Pain,0.00786,1.0,0.676,3
+My Youth,NCT DREAM,0.562,1.0,0.676,3
+Irreplaceable,NCT DREAM,0.17,2.0,0.831,3
+Chosen (feat. Ty Dolla $ign),Blxst,0.336,2.0,0.767,3
+i n t e r l u d e,J. Cole,0.0617,1.0,0.574,3
+a p p l y i n g . p r e s s u r e,J. Cole,0.0814,1.0,0.759,3
+1 0 0 . m i l ‘ (with Bas),J. Cole,0.334,2.0,0.647,3
+SUN GOES DOWN,Lil Nas X,0.0837,2.0,0.636,3
+Heartbreak Anthem (with David Guetta & Little Mix),Galantis,0.216,1.0,0.784,3
+0X1=LOVESONG (I Know I Love You) feat. Seori,TOMORROW X TOGETHER,0.0558,0.0,0.836,3
+What if I had been that PUMA,TOMORROW X TOGETHER,0.0287,0.0,0.679,3
+Dear Sputnik,TOMORROW X TOGETHER,0.000184,0.0,0.806,3
+0X1=LOVESONG (I Know I Love you),TOMORROW X TOGETHER,0.0558,0.0,0.836,3
+Todo De Ti,Rauw Alejandro,0.31,3.0,0.718,3
+Scandal,TWICE,0.0397,2.0,0.873,3
+Conversation,TWICE,0.17,1.0,0.649,3
+Need to Know,Doja Cat,0.304,1.0,0.609,3
+Heaven's Cloud,SEVENTEEN,0.0208,0.0,0.69,3
+GAM3 BO1,SEVENTEEN,0.118,2.0,0.823,3
+"Same dream, same mind, same night",SEVENTEEN,0.198,2.0,0.644,3
+All Too Well,Taylor Swift,0.0382,0.0,0.609,3
+Dandelions,Ruth B.,0.0157,1.0,0.692,3
+Dinero,Trinidad Cardona,0.00772,2.0,0.782,3
+WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),"Tyler, The Creator",0.269,0.0,0.653,3
+Hello Future,NCT DREAM,0.0261,1.0,0.803,3
+Life Is Still Going On,NCT DREAM,0.158,0.0,0.749,3
+Perfect World,TWICE,0.0477,3.0,0.877,3
+Renegade (feat. Taylor Swift),Big Red Machine,0.435,0.0,0.708,3
+I WANNA BE YOUR SLAVE,Måneskin,0.00165,1.0,0.608,3
+STAY (with Justin Bieber),The Kid LAROI,0.0383,1.0,0.764,3
+Motley Crew,Post Malone,0.0904,3.0,0.631,3
+up to me,LANY,0.0563,1.0,0.721,3
+Mana,SB19,0.0267,1.0,0.687,3
+Ikako,SB19,0.0247,1.0,0.715,3
+INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,0.0203,3.0,0.704,3
+DUMB DUMB,JEON SOMI,0.0182,2.0,0.749,3
+Bumalik Ka Na Sa'kin,Silent Sanctuary,0.00393,2.0,0.585,3
+Pushin' N Pullin',Red Velvet,0.176,2.0,0.681,3
+Thunderous,Stray Kids,0.207,1.0,0.781,3
+CHEESE,Stray Kids,0.0278,2.0,0.946,3
+Kapangyarihan - feat. SB19,Ben&Ben,0.0114,0.0,0.746,3
+Lunod (feat. Zild & Juan Karlos),Ben&Ben,0.00783,0.0,0.693,3
+Kasayaw,Ben&Ben,0.0164,2.0,0.836,3
+Hurricane,Kanye West,0.0466,0.0,0.561,3
+Papi’s Home,Drake,0.112,2.0,0.741,3
+No Friends In The Industry,Drake,0.0181,1.0,0.744,3
+Shivers,Ed Sheeran,0.281,2.0,0.859,3
+Happier Than Ever - Edit,Billie Eilish,0.0468,0.0,0.599,3
+THATS WHAT I WANT,Lil Nas X,0.00614,1.0,0.846,3
+Sticker,NCT 127,0.311,2.0,0.769,3
+Cold Heart - PNAU Remix,Elton John,0.034,1.0,0.798,3
+LOCO - English Ver.,ITZY,0.00834,1.0,0.866,3
+My Universe - Instrumental,Coldplay,0.0019,1.0,0.594,3
+SWIPE,ITZY,0.00151,1.0,0.757,3
+LOCO,ITZY,0.0103,1.0,0.886,3
+I'll Make You Cry,aespa,0.0861,1.0,0.896,3
+Nang Dumating Ka,Bandang Lapis,0.0148,0.0,0.584,3
+Just A Little Bit,ENHYPEN,0.242,0.0,0.59,3
+Upper Side Dreamin’,ENHYPEN,0.0281,0.0,0.886,3
+"Attention, please!",ENHYPEN,0.000483,2.0,0.871,3
+Set Fire to the Rain,Adele,0.00408,2.0,0.67,3
+Heart Can’t Lose,Zack Tabudlo,0.0318,1.0,0.567,3
+To you,SEVENTEEN,0.0242,2.0,0.796,3
+PANG!,SEVENTEEN,0.131,1.0,0.764,3
+Imperfect love,SEVENTEEN,0.298,0.0,0.735,3
+Better Days (NEIKED x Mae Muller x Polo G),NEIKED,0.0018,0.0,0.671,3
+Hero (feat. Christina Perri),Cash Cash,0.0627,1.0,0.85,3
+One Right Now (with The Weeknd),Post Malone,0.0361,1.0,0.781,3
+Smokin Out The Window,Bruno Mars,0.0558,2.0,0.618,3
+Red (Taylor's Version),Taylor Swift,0.00108,1.0,0.777,3
+Treacherous (Taylor's Version),Taylor Swift,0.0344,2.0,0.593,3
+Stay Stay Stay (Taylor's Version),Taylor Swift,0.0848,0.0,0.681,3
+I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),Taylor Swift,0.167,0.0,0.715,3
+"HELLO (NAYEON, MOMO, CHAEYOUNG)",TWICE,0.0363,0.0,0.638,3
+"1, 3, 2 (JEONGYEON, MINA, TZUYU)",TWICE,0.0799,0.0,0.875,3
+Oh My God,Adele,0.091,1.0,0.725,3
+Shivers (feat. Jessi & SUNMI),Ed Sheeran,0.268,2.0,0.873,3
+Wandered To LA (with Justin Bieber),Juice WRLD,0.0509,0.0,0.645,3

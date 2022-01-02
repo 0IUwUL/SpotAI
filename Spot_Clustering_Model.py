@@ -10,7 +10,7 @@ from sklearn.preprocessing import MinMaxScaler
 from Land import att
 
 df = pd.read_csv('Data/Track.csv')
-initial = ['track_name','artist_name']
+initial = ['track_id','track_name','artist_name']
 pas = []
 for i in att:
     if bool(att[i]):
@@ -93,10 +93,10 @@ for i in hold:
         Largest_2 = float(hold[i][pas[2]])
         final[2] = i
 #print(final)
-df.to_csv("Data/df.csv",index=False)
-clusters[final[0]].to_csv("Data/1st.csv",index=False)
-clusters[final[1]].to_csv("Data/2nd.csv",index=False)
-clusters[final[2]].to_csv("Data/3rd.csv",index=False)
+df.to_csv("Data/df.csv")
+clusters[final[0]].to_csv("Data/1st.csv")
+clusters[final[1]].to_csv("Data/2nd.csv")
+clusters[final[2]].to_csv("Data/3rd.csv")
 
 finale = []
 

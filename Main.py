@@ -22,12 +22,12 @@ canvas = Canvas(
     relief = "ridge")
 canvas.place(x = 0, y = 0)
 
-background_img = PhotoImage(file = f"./Desktop/assets/Mbackground.png")
+background_img = PhotoImage(file = f"./assets/Deskbackground.png")
 background = canvas.create_image(
     641.0, 413.0,
     image=background_img)
 
-img0 = PhotoImage(file = f"./Desktop/assets/start.png")
+img0 = PhotoImage(file = f"./assets/Deskstart.png")
 b0 = Button(
     image = img0,
     borderwidth = 0,
@@ -40,7 +40,7 @@ b0.place(
     width = 377,
     height = 97)
 
-img1 = PhotoImage(file = f"./Desktop/assets/Question.png")
+img1 = PhotoImage(file = f"./assets/DeskQuestion.png")
 b1 = Button(
     image = img1,
     borderwidth = 0,

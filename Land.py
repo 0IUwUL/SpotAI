@@ -11,8 +11,6 @@ def btn_Val():
     att['Valence'] = int(Checkbutton2.get())
 def btn_Key():
     att['Key'] = int(Checkbutton3.get())
-#def btn_Ldn():
-#    att['Loudness'] = int(Checkbutton4.get())
 def btn_Ac():
     att['Acousticness'] = int(Checkbutton5.get())
 def btn_clicked():
@@ -24,15 +22,14 @@ def btn_clicked():
         messagebox.showerror(title="Error", message="Please choose 3 attributes")
     else:
         window.destroy()
-        import Spot_Clustering_Model
-    
+        import Profile_Link
+
 window = Tk()
 
 Checkbutton0 = IntVar()  
 Checkbutton1 = IntVar()  
 Checkbutton2 = IntVar()
 Checkbutton3 = IntVar()  
-#Checkbutton4 = IntVar()  
 Checkbutton5 = IntVar()
     
 window.geometry("1280x720")
@@ -47,13 +44,13 @@ canvas = Canvas(
     relief = "ridge")
 canvas.place(x = 0, y = 0)
 
-background_img = PhotoImage(file = f"./Start/assets/background.png")
+background_img = PhotoImage(file = f"./assets/Startbackground.png")
 background = canvas.create_image(
     640.0, 361.5,
     image=background_img)
 
-img0 = PhotoImage(file = f"./Start/assets/img0.png")
-img0a = PhotoImage(file = f"./Start/assets/img0a.png")
+img0 = PhotoImage(file = f"./assets/Startimg0.png")
+img0a = PhotoImage(file = f"./assets/Startimg0a.png")
 b0 = Checkbutton(
         variable = Checkbutton0,
         onvalue = 1,
@@ -69,8 +66,8 @@ b0.place(
     width = 334,
     height = 110)
 
-img1 = PhotoImage(file = f"./Start/assets/img1.png")
-img1a = PhotoImage(file = f"./Start/assets/img1a.png")
+img1 = PhotoImage(file = f"./assets/Startimg1.png")
+img1a = PhotoImage(file = f"./assets/Startimg1a.png")
 b1 = Checkbutton(
         variable = Checkbutton1,
         onvalue = 1,
@@ -82,12 +79,12 @@ b1 = Checkbutton(
     )
 
 b1.place(
-    x = 829, y = 432,
+    x = 471, y = 421,
     width = 334,
     height = 110)
 
-img3 = PhotoImage(file = f"./Start/assets/img3.png")
-img3a = PhotoImage(file = f"./Start/assets/img3a.png")
+img3 = PhotoImage(file = f"./assets/Startimg3.png")
+img3a = PhotoImage(file = f"./assets/Startimg3a.png")
 b3 = Checkbutton(
         variable = Checkbutton2,
         onvalue = 1,
@@ -99,12 +96,12 @@ b3 = Checkbutton(
     )
 
 b3.place(
-    x = 113, y = 432,
+    x = 114, y = 305,
     width = 334,
     height = 110)
 
-img4 = PhotoImage(file = f"./Start/assets/img4.png")
-img4a = PhotoImage(file = f"./Start/assets/img4a.png")
+img4 = PhotoImage(file = f"./assets/Startimg4.png")
+img4a = PhotoImage(file = f"./assets/Startimg4a.png")
 b4 = Checkbutton(
         variable = Checkbutton3,
         onvalue = 1,
@@ -116,7 +113,7 @@ b4 = Checkbutton(
     )
 
 b4.place(
-    x = 113, y = 307,
+    x = 829, y = 305,
     width = 334,
     height = 110)
 
@@ -137,8 +134,8 @@ b4.place(
 #    width = 334,
 #    height = 110)
 
-img6 = PhotoImage(file = f"./Start/assets/img6.png")
-img6a = PhotoImage(file = f"./Start/assets/img6a.png")
+img6 = PhotoImage(file = f"./assets/Startimg5.png")
+img6a = PhotoImage(file = f"./assets/Startimg5a.png")
 b6 = Checkbutton(
         variable = Checkbutton5,
         onvalue = 1,
@@ -155,7 +152,7 @@ b6.place(
     height = 110)
 
 #submit button
-img2 = PhotoImage(file = f"./Start/assets/img2.png")
+img2 = PhotoImage(file = f"./assets/Startsubmit.png")
 b2 = Button(
     image = img2,
     borderwidth = 0,

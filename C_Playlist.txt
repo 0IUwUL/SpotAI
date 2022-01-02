@@ -1,15 +1,14 @@
 import os
-from tkinter.constants import NONE
 from dotenv import load_dotenv
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import re
-from Spot_Clustering_Model import finale
-from Spot_Clustering_Model import pas
+from Spot_Clustering_Model import *
 
 display = []
 count = 0
-for items in finale:
+pas = titles()
+for items in process():
     display.append(items.sort_values(pas[count], ascending = False))
     count+=1
 
@@ -23,7 +22,6 @@ MY_CLIENT_URI = os.getenv('SPOTIFY_REDIRECT_URI')
 #reason for app
 scope = 'playlist-modify-public'
 #username for user
-
 
 try:
     username = input('Input link from your Spotify profile: ')

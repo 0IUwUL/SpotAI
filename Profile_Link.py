@@ -16,7 +16,9 @@ def btn_clicked():
         username = username[4]
     except:
         window.destroy()
-        messagebox.showerror(title="Error", message="Input error. Shutting down..")
+        import Error
+        exit(0)
+
     #result of clustering
     pas = titles()
     finale = process()
@@ -109,19 +111,6 @@ background_img = PhotoImage(file = f"./assets/Profbackground.png")
 background = canvas.create_image(
     639.0, 360.0,
     image=background_img)
-
-img0 = PhotoImage(file = f"./assets/ProfBack.png")
-b0 = Button(
-    image = img0,
-    borderwidth = 0,
-    highlightthickness = 0,
-    command = btn_clicked,
-    relief = "flat")
-
-b0.place(
-    x = -2, y = 4,
-    width = 87,
-    height = 87)
 
 entry0_img = PhotoImage(file = f"./assets/Prof_textBox0.png")
 entry0_bg = canvas.create_image(

@@ -13,7 +13,7 @@ Cnames = {'Energy': 'Energetic Songs',
         'Danceability': 'Party Songs', 
         'Valence': 'Happy Songs', 
         'Key': 'Pitch Songs', 
-        'Acousticness': 'Folk Songs'}
+        'Acousticness': 'Acoustic Songs'}
 
 def titles():
     pas = []

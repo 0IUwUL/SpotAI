@@ -40,18 +40,5 @@ b0.place(
     width = 377,
     height = 97)
 
-img1 = PhotoImage(file = f"./assets/DeskQuestion.png")
-b1 = Button(
-    image = img1,
-    borderwidth = 0,
-    highlightthickness = 0,
-    command = Question_btn,
-    relief = "flat")
-
-b1.place(
-    x = 1180, y = 19,
-    width = 87,
-    height = 87)
-
 window.resizable(False, False)
 window.mainloop()

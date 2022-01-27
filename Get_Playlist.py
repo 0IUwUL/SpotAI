@@ -19,12 +19,10 @@ username = "31nfp5unjyn3c5zulbz4zbh5rkoq"
 
 client_credentials_manager = SpotifyClientCredentials(client_id=MY_CLIENT_ID, client_secret=MY_CLIENT_SECRET)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
-
 #get user playlist
-playlist_id = 'spotify:user:spotifycharts:playlist:37i9dQZF1DX0hAXqBDwvwI'
+playlist_id = 'spotify:user:spotifycharts:playlist:37i9dQZF1E4nCrZFTegWCl'
 results = sp.playlist(playlist_id)
 #getting song in playlist
-j=0
 track_song = []
 
 #while results['tracks']['items'][j]['track']['uri'] != NULL:
@@ -96,7 +94,7 @@ get_features = pd.read_csv('elbow_clusters.csv')
 sorted_df = get_features.sort_values(["score"], ascending=False)
 sorted_df.reset_index(inplace=True)
 
-print(sorted_df)
+#print(sorted_df)
 
 pass_feat = []
 

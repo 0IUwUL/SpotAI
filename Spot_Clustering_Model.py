@@ -1,31 +1,55 @@
-from ast import Not
 from asyncio.windows_events import NULL
-import pandas as pd
-from sklearn import cluster 
+import pandas as pd 
 #import numpy as np
 #from sklearn import cluster 
 #import matplotlib.pyplot as plt
 #plt.style.use("seaborn")
 #from mpl_toolkits.mplot3d import Axes3D
-
+from Choice import chose
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import MinMaxScaler
 import sklearn.neighbors._partition_nodes
 
-from Get_Playlist import pass_feat
-from Get_Playlist import clusters
-no_clusters = clusters
+print("Spot Cluster")
 
-Cnames = pass_feat
+for key in chose:
+    if key == "Playlist":
+        from Get_Playlist import pass_feat
+        from Get_Playlist import clusters
+        no_clusters = clusters
+        
+        Cnames = pass_feat
+    else:
+        from Land import att
+        no_clusters = 5
+
+        Cnames = {'Energy': 'Energetic Songs', 
+                'Danceability': 'Party Songs', 
+                'Valence': 'Happy Songs', 
+                'Key': 'Pitch Songs', 
+                'Acousticness': 'Acoustic Songs'}
+
 
 def titles():
-    return pass_feat
+    try:
+        pas = []
+        for i in att.keys():
+            pas.append(i.lower())
+        return pas
+    except:
+        return pass_feat
 
 def names():
-    return Cnames
+    try:
+        chosen = []
+        for i in att.keys():
+            chosen.append(Cnames[i].upper())
+        return chosen
+    except:
+        return ['1st track', '2nd track', '3rd track']
 
-
-def process():   
+    
+def process():
     initial = ['track_id','track_name','artist_name']
     initial += titles()
 
@@ -47,7 +71,7 @@ def process():
 
     #plt.show()
 
-    print(no_clusters)
+    #print(no_clusters)
 
     col_features = df.columns[4:]
     X = MinMaxScaler().fit_transform(df[col_features])
@@ -129,16 +153,15 @@ def process():
 
 
     df.to_csv("Data/df.csv")
-    if not(clusters[final[0]].empty):
-        clusters[final[0]].to_csv("Data/1st.csv")
-    if not(clusters[final[1]].empty):
-        clusters[final[1]].to_csv("Data/2nd.csv")
-    if not(clusters[final[2]].empty):
-        clusters[final[2]].to_csv("Data/3rd.csv")
+    # if not(clusters[final[0]].empty):
+    #     clusters[final[0]].to_csv("Data/1st.csv")
+    # if not(clusters[final[1]].empty):
+    #     clusters[final[1]].to_csv("Data/2nd.csv")
+    # if not(clusters[final[2]].empty):
+    #     clusters[final[2]].to_csv("Data/3rd.csv")
 
     finale = []
-
     for i in final:
         finale.append(clusters[final[i]])
-    
+
     return finale

@@ -2,7 +2,6 @@ from tkinter import *
 
 def run():
     window.destroy()
-    import Profile_Link
 
 
 window = Tk()
@@ -26,6 +25,6 @@ background = canvas.create_image(
 
 window.resizable(False, False)
 
-window.after(1000, lambda : run())
+window.after(5000, lambda : run())
 
 window.mainloop()

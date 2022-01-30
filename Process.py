@@ -1,3 +1,4 @@
+from dis import dis
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from Spot_Clustering_Model import titles
@@ -36,43 +37,21 @@ for i in tracks_names:
 
 Onelist = []
 count = 0
+n=2
 
-for song, row in display[2].iterrows():
-    given = "spotify:track:"
-    given+=row['track_id']
-    Onelist.append(given)
-    count+=1
-    if count > 99:
-        break
-preplaylist = spotifyObject.user_playlists(user=username)
-playlist = preplaylist['items'][2]['id']
-spotifyObject.user_playlist_add_tracks(user=username, playlist_id=playlist, tracks=Onelist)
+for num in range(len(finale)-1, -1 ,-1):
+    for song, row in display[num].iterrows():
+        given = "spotify:track:"
+        given+=row['track_id']
+        Onelist.append(given)
+        count+=1
+        if count > 99:
+            break
+    preplaylist = spotifyObject.user_playlists(user=username)
+    playlist = preplaylist['items'][n]['id']
+    spotifyObject.user_playlist_add_tracks(user=username, playlist_id=playlist, tracks=Onelist)
+    n-=1
+    count = 0
+    Onelist.clear()
 
-Twolist = []
-count = 0
-
-for song, row in display[1].iterrows():
-    given = "spotify:track:"
-    given+=row['track_id']
-    Twolist.append(given)
-    count+=1
-    if count > 99:
-        break
-preplaylist = spotifyObject.user_playlists(user=username)
-playlist = preplaylist['items'][1]['id']
-spotifyObject.user_playlist_add_tracks(user=username, playlist_id=playlist, tracks=Twolist)
-
-Threelist = []
-count = 0
-
-for song, row in display[0].iterrows():
-    given = "spotify:track:"
-    given+=row['track_id']
-    Threelist.append(given)
-    count+=1
-    if count > 99:
-        break
-preplaylist = spotifyObject.user_playlists(user=username)
-playlist = preplaylist['items'][0]['id']
-spotifyObject.user_playlist_add_tracks(user=username, playlist_id=playlist, tracks=Threelist)
 print("Success")

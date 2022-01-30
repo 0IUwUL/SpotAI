@@ -1,4 +1,5 @@
 from asyncio.windows_events import NULL
+from weakref import finalize
 import pandas as pd 
 #import numpy as np
 #from sklearn import cluster 
@@ -11,7 +12,7 @@ from sklearn.preprocessing import MinMaxScaler
 import sklearn.neighbors._partition_nodes
 
 print("Spot Cluster")
-
+print(chose)
 for key in chose:
     if key == "Playlist":
         from Get_Playlist import pass_feat
@@ -60,16 +61,16 @@ def process():
 
     #print(att)
     #print(initial)
-    #fig,axes = plt.subplots(2,2,figsize=(15,8))
+    # fig,axes = plt.subplots(2,2,figsize=(15,8))
 
-    #axes[0,0].hist(df['key'])
-    #axes[0,0].set_title('Key',fontsize=15)
-    #axes[0,1].hist(df['energy'])
-    #axes[0,1].set_title('Energy',fontsize=15)
-    #axes[1,0].hist(df['acousticness'])
-    #axes[1,0].set_title('Acousticness',fontsize=15)
+    # axes[0,0].hist(df[pas[0]])
+    # axes[0,0].set_title(pas[0],fontsize=15)
+    # axes[0,1].hist(df[pas[1]])
+    # axes[0,1].set_title(pas[1],fontsize=15)
+    # axes[1,0].hist(df[pas[2]])
+    # axes[1,0].set_title(pas[2],fontsize=15)
 
-    #plt.show()
+    # plt.show()
 
     #print(no_clusters)
 
@@ -163,5 +164,13 @@ def process():
     finale = []
     for i in final:
         finale.append(clusters[final[i]])
-
+    for i in range(len(finale)):
+        try:
+            if finale[i].equals(finale[i+1]):
+                finale.pop(i)
+            else:
+                continue
+        except:
+            break
+    print(len(finale))
     return finale

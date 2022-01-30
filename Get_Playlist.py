@@ -56,9 +56,9 @@ df = pd.DataFrame.from_dict(songs_and_features, orient ='index')
 df.drop(df.columns[[11, 13, 14, 15, 17]], axis = 1, inplace = True)
 df.drop_duplicates(subset=['id'])
 
-df.to_csv('rawr.csv', index=False)
+df.to_csv('Data/rawr.csv', index=False)
 
-df = pd.read_csv('rawr.csv')
+df = pd.read_csv('Data/rawr.csv')
 
 columns = ["energy", "key", "speechiness", "acousticness", "instrumentalness", "loudness","tempo","danceability", 'valence' , "liveness"]
 
@@ -92,9 +92,9 @@ for i in list(output):
         }
         df3 = df3.append(dict, ignore_index=True)
 
-df3.to_csv('elbow_clusters.csv', index=False)
+df3.to_csv('Data/elbow_clusters.csv', index=False)
 
-get_features = pd.read_csv('elbow_clusters.csv')
+get_features = pd.read_csv('Data/elbow_clusters.csv')
 sorted_df = get_features.sort_values(["score"], ascending=False)
 sorted_df.reset_index(inplace=True)
 

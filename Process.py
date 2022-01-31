@@ -30,14 +30,14 @@ scope = 'playlist-modify-public'
 token = SpotifyOAuth(scope=scope, username = username, client_id = MY_CLIENT_ID, client_secret = MY_CLIENT_SECRET, redirect_uri = MY_CLIENT_URI)
 spotifyObject = spotipy.Spotify(auth_manager = token)
 
-for i in tracks_names:
+for i in range(len(finale)-1, -1 ,-1):
 #create playlist
-    playlist_name = i.upper()
+    playlist_name = tracks_names[i].upper()
     spotifyObject.user_playlist_create(user=username, name = playlist_name, public = True, description="None")
 
 Onelist = []
 count = 0
-n=2
+n=len(finale)-1
 
 for num in range(len(finale)-1, -1 ,-1):
     for song, row in display[num].iterrows():

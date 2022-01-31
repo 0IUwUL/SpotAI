@@ -12,7 +12,7 @@ from sklearn.preprocessing import MinMaxScaler
 import sklearn.neighbors._partition_nodes
 
 print("Spot Cluster")
-print(chose)
+#print(chose)
 for key in chose:
     if key == "Playlist":
         from Get_Playlist import pass_feat
@@ -150,7 +150,6 @@ def process():
         if float(hold[i][pas[2]]) > Largest_2:
             Largest_2 = float(hold[i][pas[2]])
             final[2] = i
-    #print(final)
 
 
     df.to_csv("Data/df.csv")
@@ -172,5 +171,4 @@ def process():
                 continue
         except:
             break
-    print(len(finale))
     return finale

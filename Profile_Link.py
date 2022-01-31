@@ -11,11 +11,11 @@ def btn_clicked():
     try:
         username = username[5]
     except:
-        print(username)
+        #print(username)
         window.destroy()
         import Error
         exit(0)
-    print(username)
+    #print(username)
     window.destroy()
     import TY
 

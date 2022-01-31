@@ -13,6 +13,11 @@ import Playlist
 
 print("Get Playlist")
 
+print("=============================================================")
+print("                         PLEASE WAIT                            ")
+print("=============================================================")
+
+
 load_dotenv()
 
 MY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
@@ -24,7 +29,7 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 #get user playlist
 playlist_id = 'spotify:user:spotifycharts:playlist:'+Playlist.link
-print(playlist_id)
+#print(playlist_id)
 results = sp.playlist(playlist_id)
 #getting song in playlist
 track_song = []
@@ -38,10 +43,10 @@ for x in results['tracks']['items']:
     track_song.append(x['track']['uri'])
 
 features = sp.audio_features(track_song)
-print(track_song)
+#print(track_song)
 #print(len(track_song))
 #print('This is features')
-print(features)
+#print(features)
 
 songs_and_features = {}
 
@@ -49,16 +54,16 @@ for a in range(len(track_song)):
     songs_and_features[a] = features[a]
 
 
-print(songs_and_features)
+#print(songs_and_features)
 
 #songs from playlist given
 df = pd.DataFrame.from_dict(songs_and_features, orient ='index')
 df.drop(df.columns[[11, 13, 14, 15, 17]], axis = 1, inplace = True)
 df.drop_duplicates(subset=['id'])
 
-df.to_csv('Data/rawr.csv', index=False)
+df.to_csv('Data/Playlist.csv', index=False)
 
-df = pd.read_csv('Data/rawr.csv')
+df = pd.read_csv('Data/Playlist.csv')
 
 columns = ["energy", "key", "speechiness", "acousticness", "instrumentalness", "loudness","tempo","danceability", 'valence' , "liveness"]
 
@@ -98,7 +103,7 @@ get_features = pd.read_csv('Data/elbow_clusters.csv')
 sorted_df = get_features.sort_values(["score"], ascending=False)
 sorted_df.reset_index(inplace=True)
 
-print(sorted_df)
+#print(sorted_df)
 
 pass_feat = []
 
@@ -114,4 +119,6 @@ for x in range(len(pass_feat)):
 
 clusters = sorted_df.elbow[0]
 
-print(clusters)
+#print(clusters)
+
+

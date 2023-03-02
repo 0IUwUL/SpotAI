@@ -3,12 +3,13 @@ It is a recommendation system utilizing K-means algorithm with Spotify API using
 
 ## Setup
 1. Setup a Spotify account and a Spotify [Developer](https://developer.spotify.com) Account
-2. Get the *SPOTIFY_CLIENT_ID* and *SPOTIFY_CLIENT_SECRET*, input these to .env
-3. Run the Main.py
-4. Click "Start" button.
-5. Choose to either of the options: **Choose from 3 attributes to create a playlist** and **Provide playlist link to match your preferences with the playlist**.
-6. Get your profile link from your Spotify account by clicking on the **Copy link to profile**.
-7. After submitting, the process may take 3-5 minutes. There will be 2 or 3 playlist will be created in your playlist list titled based from the Attributes.
+2. Create an app on Spotify Developer Dashboard, set the Redirect URIs to http://127.0.0.1:8080/
+3. Get the *SPOTIFY_CLIENT_ID* and *SPOTIFY_CLIENT_SECRET* of the created app, input these to .env
+4. Run the Main.py
+5. Click "Start" button.
+6. Choose to either of the options: **Choose from 3 attributes to create a playlist** and **Provide playlist link to match your preferences with the playlist**.
+7. Get your profile link from your Spotify account by clicking on the **Copy link to profile**.
+8. After submitting, the process may take 3-5 minutes. There will be 2 or 3 playlist will be created in your playlist list titled based from the Attributes.
 
 > Warning: Some playlist may cause the system to crash. The system may crash if the given playlist has less or exceeds 150 songs.
 
